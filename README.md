@@ -32,7 +32,10 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">Like My Work?</h3>
-<p><a href="https://www.buymeacoffee.com/omkartapale"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="omkartapale" /></a></p><br><br>
+<p>
+  <a href="https://github.com/sponsors/omkartapale">:heart: Sponsor me on GitHub</a>
+  <a href="https://www.buymeacoffee.com/omkartapale"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="omkartapale" /></a>
+</p><br><br>
 
 ---
 
